@@ -1,0 +1,10 @@
+cakephp_app_path=
+cakephp_core_path=
+ciunit_config_file=
+ciunit_path=
+eclipse.preferences.version=1
+phpunit_config_file=/CodeIgniter_2_1_4/application/tests/phpunit.xml
+preload_script=
+test_file_pattern=
+test_folders=/CodeIgniter_2_1_4/application/tests
+testing_framework=PHPUnit
